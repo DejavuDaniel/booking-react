@@ -1,0 +1,20 @@
+img {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+button {
+    border: rgba(231, 93, 231, 0.81);
+    background-color: rgba(231, 93, 231, 0.81);
+}
+
+button:hover {
+    background-color:rgb(234, 73, 234);
+    color: white;
+    cursor: pointer;
+}
+
+nav {
+    width: 100% !important;
+}
